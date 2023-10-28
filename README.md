@@ -29,5 +29,5 @@ Visit the [Username Generator](https://name-generator.streamlit.app/) on Streaml
 
 Here is a quick preview of how the Username Generator looks in action:
 
-![Username Generator Preview](https://gifyu.com/image/S8NDYg)
+![Username Generator Preview](https://gifyu.com/image/S89nv)
 
