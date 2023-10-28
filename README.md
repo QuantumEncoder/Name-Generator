@@ -12,6 +12,12 @@ This project is a username generator inspired by the Docker name generator conce
 
 The **Username Generator** is a simple application that generates unique usernames. The user interface is built using Streamlit, a Python library used for creating web applications. Upon clicking the "Generate Username" button, the application combines a randomly selected adjective and noun to create a unique username.
 
+## Preview
+
+Here is a quick preview of how the Username Generator looks in action:
+
+![Username Generator Preview](https://s6.gifyu.com/images/S89nv.png)
+
 ## Intended Functionality
 
 The generated usernames can be used for various purposes, including creating unique usernames for online platforms such as GitHub, Gmail, Instagram, and more. For instance, the creator of this project obtained their GitHub username, 'quantumencoder', from this tool.
@@ -24,10 +30,4 @@ The generated usernames can be used for various purposes, including creating uni
 ## Website Link
 
 Visit the [Username Generator](https://name-generator.streamlit.app/) on Streamlit Sharing to generate your own unique username.
-
-## Preview
-
-Here is a quick preview of how the Username Generator looks in action:
-
-![Username Generator Preview](https://s6.gifyu.com/images/S89nv.png)
 
